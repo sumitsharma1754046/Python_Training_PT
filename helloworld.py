@@ -7,4 +7,7 @@ class Vehicle:
 print("Function is calling below")
 Tata = Vehicle()
 Tata.configuration()
+print("Function is called above1")
+print("Function is called above")
+print("Function is called above")
 print("Function is called above")
